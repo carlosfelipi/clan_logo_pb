@@ -11,8 +11,13 @@ This is a simple PHP function to convert clan logo values into a formatted CSS r
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/997901865469624321/1169433570402635888/image.png)
-![App Screenshot](https://cdn.discordapp.com/attachments/997901865469624321/1169434483460673576/image.png)
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/997901865469624321/1169433570402635888/image.png">
+</div>
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/997901865469624321/1169434483460673576/image.png">
+</div>
 
 
 <div align="center">
